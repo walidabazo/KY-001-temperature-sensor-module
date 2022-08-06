@@ -2,6 +2,8 @@
 KY-001 temperature sensor module with Oled display 
 <h2><strong>KY-001 temperature sensor module OLED DISPLAY</strong></h2>
 
+   [![Watch the video](https://img.youtube.com/vi/QYI763sviUk/0.jpg)](https://youtu.be/QYI763sviUk)
+   
 <hr />
 <p><strong>short description :</strong></p>
 
